@@ -10,13 +10,13 @@
 
   {
     "class": "label_control",
-    "font.face" : "Fira-Code"
+    "font.face" : "Fira Code Regular"
   },
 
   {
     "class": "label_control",
     "parents": [{"class": "panel_control"}],
-    "font.face" : "Fira-Code"
+    "font.face" : "Fira Code Regular"
   },
 
   //
@@ -25,12 +25,12 @@
 
   {
     "class": "sidebar_heading",
-    "font.face": "Fira-Code"
+    "font.face": "Fira Code Regular"
   },
 
   {
     "class": "sidebar_label",
-    "font.face": "Fira-Code"
+    "font.face": "Fira Code Regular"
   },
 
   //
@@ -40,7 +40,7 @@
   {
     "class": "label_control",
     "parents": [{"class": "status_bar"}],
-    "font.face": "Fira-Code"
+    "font.face": "Fira Code Regular"
   },
 
   //
@@ -49,7 +49,7 @@
 
   {
     "class": "tab_label",
-    "font.face" : "Fira-Code"
+    "font.face" : "Fira Code Regular"
   },
 
   //
@@ -58,6 +58,6 @@
 
   {
     "class": "tool_tip_label_control",
-    "font.face": "Fira-Code"
+    "font.face": "Fira Code Regular"
   }
 ]
